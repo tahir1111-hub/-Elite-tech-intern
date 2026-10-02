@@ -136,7 +136,7 @@ Private S3
 
 CloudFront Distribution:
 
-https://d1ubef2h5bk1qs.cloudfront.net/
+https://d1ubef2h5bk1qs.cloudfront.net/elitechgorup/Screenshot%202026-09-25%20170257.png
 
 
 OAC allows CloudFront to access the private S3 bucket without making
