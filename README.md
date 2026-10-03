@@ -76,7 +76,7 @@ cloudformation/
 
 ### CloudFront
 
-![CloudFront OAC](screenshots/04-cloudfront-oac.png)
+![CloudFront OAC](screenshots/AWS CloudFront Distribution Details Dashboard.png)
 
 ### Monitoring
 
