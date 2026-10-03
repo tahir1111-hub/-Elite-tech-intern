@@ -28,6 +28,7 @@ A hands-on AWS project focused on **secure storage, monitoring, cloud security, 
 ## 🚀 Tasks
 
 ### 01 — Secure Cloud Storage
+
 - Private S3 bucket
 - Versioning & SSE-S3 encryption
 - Block Public Access
@@ -35,11 +36,13 @@ A hands-on AWS project focused on **secure storage, monitoring, cloud security, 
 - CloudFront + OAC
 
 ### 02 — Monitoring & Alerts
+
 - CloudWatch EC2 monitoring
 - CPU alarm at **70%**
 - SNS email notification
 
 ### 03 — Multi-Cloud
+
 **Planned:** Google Cloud integration and multi-cloud architecture.
 
 ## ☁️ AWS Services
@@ -66,26 +69,25 @@ cloudformation/
 
 ## 📸 Screenshots
 
-### S3 Security
+### CloudFront Distribution
 
-![S3 Versioning](screenshots/01-s3-versioning.png)
+![CloudFront Distribution Details](./AWS%20CloudFront%20Distribution%20Details%20Dashboard.png)
 
-![S3 Encryption](screenshots/02-s3-encryption.png)
+### AWS Screenshots
 
-![Block Public Access](screenshots/03-s3-block-public-access.png)
+![Screenshot 1](./Screenshot%202026-10-02%20093414%20-%20Copy.png)
 
-### CloudFront
+![Screenshot 2](./Screenshot%202026-10-02%20093432.png)
 
-![CloudFront OAC](screenshots/AWS CloudFront Distribution Details Dashboard.png)
+![Screenshot 3](./Screenshot%202026-10-02%20093638%20-%20Copy.png)
 
-### Monitoring
+![Screenshot 4](./Screenshot%202026-10-03%20103721.png)
 
-![CloudWatch](screenshots/05-cloudwatch-cpu-alarm.png)
+![Screenshot 5](./Screenshot%202026-10-03%20113045.png)
 
-### IAM
-
-![IAM](screenshots/06-iam-least-privilege.png)
-
+##DISTRIBUTION Link
+https://d1ubef2h5bk1qs.cloudfront.net/elitechgorup/Screenshot%202026-09-25%20170257.png
+-Paste into Browser
 ## 📂 Project Structure
 
 ```text
